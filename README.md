@@ -1,1 +1,1 @@
-# Tkinter_Calc
+This is My First Tkinter Project. I have made a simple calculator using Python-Tkinter. It uses various widgets like frames, buttons, labels and entries and their respective attributes. It performs the general arithmatc operations like add, subtract, divide, multiply and modulus. If u are a GUI developer, then you are always welcomed to fork the repo and add your precious thoughts and make it better than before.
